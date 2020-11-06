@@ -1,0 +1,10 @@
+F:\Code\jsonPractice\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.exe.config
+F:\Code\jsonPractice\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.exe
+F:\Code\jsonPractice\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.pdb
+F:\Code\jsonPractice\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.csprojAssemblyReference.cache
+F:\Code\jsonPractice\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.csproj.CoreCompileInputs.cache
+F:\Code\jsonPractice\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.exe
+F:\Code\jsonPractice\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.pdb
+F:\Code\jsonPractice\JavaScriptSerializerExample\bin\Debug\Newtonsoft.Json.dll
+F:\Code\jsonPractice\JavaScriptSerializerExample\bin\Debug\Newtonsoft.Json.xml
+F:\Code\jsonPractice\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.csproj.CopyComplete
