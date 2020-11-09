@@ -1,0 +1,13 @@
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\MainWindow.g.cs
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\App.g.cs
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client_MarkupCompile.cache
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\bin\Debug\SimpleMvvmDemo.Client.exe.config
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\bin\Debug\SimpleMvvmDemo.Client.exe
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\bin\Debug\SimpleMvvmDemo.Client.pdb
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\MainWindow.baml
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.g.resources
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.Properties.Resources.resources
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.csproj.GenerateResource.cache
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.csproj.CoreCompileInputs.cache
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.exe
+F:\Code\Practice\MVVMpractice\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.pdb
