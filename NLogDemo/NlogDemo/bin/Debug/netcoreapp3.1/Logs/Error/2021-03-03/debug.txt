@@ -1,0 +1,16 @@
+2021-03-03 17:57:13.2498 | Debug | message--------- 
+2021-03-03 17:57:59.4854 | Debug | message--------- 
+2021-03-03 17:57:59.5150 | Error | error----------- 
+2021-03-03 17:58:42.2980 | Debug | message--------- 
+2021-03-03 17:58:42.3288 | Error | error----------- 
+2021-03-03 17:58:42.3288 | Error | error2----------- 
+2021-03-03 18:03:30.2849 | Debug | message--------- System.Exception: demo exception with debug 
+ MainWindow..ctor => MainWindow.init => Logger.Debug 
+
+2021-03-03 18:03:30.3184 | Error | error----------- 
+2021-03-03 18:03:30.3184 | Error | error2----------- 
+2021-03-03 20:17:16.8652 | Debug | message--------- System.Exception: demo exception with debug 
+ MainWindow..ctor => MainWindow.init => Logger.Debug 
+
+2021-03-03 20:17:16.9018 | Error | error----------- 
+2021-03-03 20:17:16.9018 | Error | error2----------- 
